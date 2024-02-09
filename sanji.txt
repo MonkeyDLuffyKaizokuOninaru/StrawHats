@@ -1,1 +1,1 @@
-ECHO is on.
+"My dream is to find all blue" 
